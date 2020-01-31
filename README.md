@@ -1,6 +1,6 @@
 # Belajar-JavaScript-dengan-Game-Sederhana
 
-clone repo ini ke komputer atau laptop kamu<br>
+<li>clone repo ini ke komputer atau laptop kamu</li><br>
 cobalah untuk jalankan dan jangan lupa untuk mengganti <script src"ganti ini dengan file js game yang mau di coba"></script><br>
 dan cobalah untuk memahami algoritma yang dibuat<br>
 selamat mencoba & jangan pernah berhenti untuk belajar yah<br>
