@@ -3,7 +3,7 @@
 <li>clone repo ini ke komputer atau laptop kamu</li><br>
 <li>cobalah untuk jalankan dan jangan lupa untuk mengganti <script src"ganti ini dengan file js game yang mau di coba"></script><br>
 dan cobalah untuk memahami algoritma yang dibuat</li><br>
-<li>selamat mencoba & jangan pernah berhenti untuk belajar yah<br></li>
+<li>selamat mencoba & jangan pernah berhenti untuk belajar yah</li><br>
 
 
 maaf jika teman - teman melihat repo ini sebagai sampah<br>
